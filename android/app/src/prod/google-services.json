@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "908554123715",
+    "project_id": "flutterbyte-prod",
+    "storage_bucket": "flutterbyte-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908554123715:android:9ab2f603670336e5222576",
+        "android_client_info": {
+          "package_name": "com.alwaysgoodapps.flutterbyte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908554123715-99kjb968ei95r94a462952jdnk9f0i7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFDHO34OCvcFjzSWWRW2dUlJuZ_OynHB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908554123715-99kjb968ei95r94a462952jdnk9f0i7d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "908554123715-fan741548tr1mspdeelgilqv85cj8occ.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alwaysgoodapps.flutterbyte"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
